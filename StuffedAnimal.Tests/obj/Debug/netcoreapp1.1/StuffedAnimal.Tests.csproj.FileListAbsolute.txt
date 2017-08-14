@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/bin/Debug/netcoreapp1.1/StuffedAnimal.Tests.deps.json
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/bin/Debug/netcoreapp1.1/StuffedAnimal.Tests.runtimeconfig.json
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/bin/Debug/netcoreapp1.1/StuffedAnimal.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/obj/Debug/netcoreapp1.1/StuffedAnimal.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/bin/Debug/netcoreapp1.1/StuffedAnimal.Tests.dll
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/bin/Debug/netcoreapp1.1/StuffedAnimal.Tests.pdb
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/bin/Debug/netcoreapp1.1/StuffedAnimal.dll
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/bin/Debug/netcoreapp1.1/StuffedAnimal.pdb
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/obj/Debug/netcoreapp1.1/StuffedAnimal.Tests.dll
+/Users/Guest/Desktop/StuffedAnimal.Solution/StuffedAnimal.Tests/obj/Debug/netcoreapp1.1/StuffedAnimal.Tests.pdb
