@@ -1,0 +1,14 @@
+<h1>You've added a @Model[Model.Count - 1].GetName()!</h1>
+
+<ul>
+  @foreach(var animal in @Model)
+  {
+    <li>@animal.GetName()</li>
+  }
+</ul>
+
+
+<a href="/"><button type="button" class="btn">Add Animal</button></a>
+<form action="/" method="post">
+  <button type="submit" class="btn">Clear All</button>
+</form>

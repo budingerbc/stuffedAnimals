@@ -7,7 +7,7 @@ namespace StuffedAnimalCollection
 {
   public static class DBConfiguration
   {
-    public static string ConnectionString = "server=localhost;user id=root;password=root;port=8889;database=stuffedanimals;";
+    public static string ConnectionString = "server=localhost;user id=root;password=root;port=8889;database=stuffedanimals_test;";
   }
   public class Startup
   {
